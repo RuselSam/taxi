@@ -1,1 +1,1 @@
-[![Build Status][![codecov](https://codecov.io/gh/RuselSam/taxi/branch/master/graph/badge.svg)](https://codecov.io/gh/RuselSam/taxi)(https://travis-ci.org/RuselSam/taxi.svg?branch=master)](https://travis-ci.org/RuselSam/taxi)
+[![Build Status](https://travis-ci.org/RuselSam/taxi.svg?branch=master)](https://travis-ci.org/RuselSam/taxi) [![codecov](https://codecov.io/gh/RuselSam/taxi/branch/master/graph/badge.svg)](https://codecov.io/gh/RuselSam/taxi)
