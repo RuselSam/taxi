@@ -1,20 +1,18 @@
 package ru.itpark;
 
 import org.junit.jupiter.api.Test;
-import ru.itpark.TaxiService;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class TaxiServiceTest {
+class TaxiServiceTestTwo {
 
     @Test
     void orderSum() {
         {
             TaxiService service = new TaxiService();
-            int sale = service.orderSum(50);
-            assertEquals(53,sale);
+            int sale = service.orderSum(1000);
+            assertEquals(100,sale);
 
         }
-
     }
 }
